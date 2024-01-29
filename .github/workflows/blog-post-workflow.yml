@@ -1,18 +1,26 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps:
-          - name: Checkout repository
-            uses: actions/checkout@v3 # Update to the latest version that supports Node.js 20
-    
-          - name: Run blog post workflow
-            uses: gautamkrishnar/blog-post-workflow@v4 # Update to the latest version that supports Node.js 20
-            with:
-              feed_url: "https://medium.com/feed/@priyaeswaran"
-              github_token: ${{ secrets.GITHUB_TOKEN }}
-                
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Schedule to run every 6 hours
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3 # Update to the latest version that supports Node.js 20
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3 # Update to the latest version that supports Node.js 20
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README with latest blog posts
+        run: node update-readme.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
