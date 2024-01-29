@@ -28,7 +28,6 @@
 - [Mastering Object-Oriented Programming &lpar;OOP&rpar; Concepts in JavaScript](https://medium.com/@priyaeswaran/mastering-object-oriented-programming-oop-concepts-in-javascript-06027699c747?source=rss-97f138d31355------2)
 - [Higher Order Functions in JavaScript](https://medium.com/@priyaeswaran/higher-order-functions-in-javascript-9fc8f3d7da5b?source=rss-97f138d31355------2)
 - [Functions in JavaScript:](https://medium.com/@priyaeswaran/functions-in-javascript-4183acbea869?source=rss-97f138d31355------2)
-- [String and its Methods in JavaScript](https://medium.com/@priyaeswaran/string-and-its-methods-in-javascript-aa5ff2df3a7d?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
