@@ -6,9 +6,13 @@ jobs:
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://medium.com/feed/@priyaeswaran"
+        steps:
+          - name: Checkout repository
+            uses: actions/checkout@v3 # Update to the latest version that supports Node.js 20
+    
+          - name: Run blog post workflow
+            uses: gautamkrishnar/blog-post-workflow@v4 # Update to the latest version that supports Node.js 20
+            with:
+              feed_url: "https://medium.com/feed/@priyaeswaran"
+              github_token: ${{ secrets.GITHUB_TOKEN }}
+                
