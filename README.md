@@ -31,7 +31,7 @@
 - [String and its Methods in JavaScript](https://medium.com/@priyaeswaran/string-and-its-methods-in-javascript-aa5ff2df3a7d?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 [![shanmuga priya Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=priyaeswaran&type=horizontal&limt=3)](https://medium.com/@priyaeswaran)
-<a href="https://medium.com/@priyaeswaran" >Blog</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
