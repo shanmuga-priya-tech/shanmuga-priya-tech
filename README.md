@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate developer from India</h3>
-<img alt="profile gif" align="right" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA">
+<img alt="profile gif" align="right" src=".github/workflows/ezgif.com-resize (1).webp">
 
 
 - 🔭 I’m currently working on **Natours project**
