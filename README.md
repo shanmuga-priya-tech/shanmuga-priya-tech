@@ -6,9 +6,9 @@
 <img alt="profile gif" align="right" src=".github/workflows/ezgif.com-resize (1).webp">
 
 
-- 🔭 I’m currently working on **Natours project**
+- 🔭 I’m currently working on **Building Myself**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js,React**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
