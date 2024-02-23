@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MiddleWare in JavaScript:](https://medium.com/@priyaeswaran/middleware-in-javascript-8af7166494d3?source=rss-97f138d31355------2)
 - [Decoding the Web: How the web work Behind the Scenes](https://medium.com/@priyaeswaran/decoding-the-web-how-the-web-work-behind-the-scenes-3dd5dd5d3b71?source=rss-97f138d31355------2)
 - [Introduction to Node.js:](https://medium.com/@priyaeswaran/introduction-to-node-js-efded2785091?source=rss-97f138d31355------2)
 - [Mastering Object-Oriented Programming &lpar;OOP&rpar; Concepts in JavaScript](https://medium.com/@priyaeswaran/mastering-object-oriented-programming-oop-concepts-in-javascript-06027699c747?source=rss-97f138d31355------2)
-- [Higher Order Functions in JavaScript](https://medium.com/@priyaeswaran/higher-order-functions-in-javascript-9fc8f3d7da5b?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
