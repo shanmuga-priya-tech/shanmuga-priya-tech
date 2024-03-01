@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With React Hooks:A Beginner’s Guide](https://medium.com/@priyaeswaran/getting-started-with-react-hooks-a-beginners-guide-6103e726be4d?source=rss-97f138d31355------2)
 - [Beginner’s Guide to JWT &lpar;JSON Web Tokens&rpar;:](https://medium.com/@priyaeswaran/beginners-guide-to-jwt-json-web-tokens-8321f4d90650?source=rss-97f138d31355------2)
 - [Library vs Frameworks:A Briyani Analogy](https://medium.com/@priyaeswaran/library-vs-frameworks-a-briyani-analogy-b2b57faf75f9?source=rss-97f138d31355------2)
 - [MiddleWare in JavaScript:](https://medium.com/@priyaeswaran/middleware-in-javascript-8af7166494d3?source=rss-97f138d31355------2)
-- [Decoding the Web: How the web work Behind the Scenes](https://medium.com/@priyaeswaran/decoding-the-web-how-the-web-work-behind-the-scenes-3dd5dd5d3b71?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
