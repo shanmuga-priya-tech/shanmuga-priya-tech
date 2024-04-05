@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Comprehensive Guide to Components in React:](https://medium.com/@priyaeswaran/the-comprehensive-guide-to-components-in-react-154ac7490dd3?source=rss-97f138d31355------2)
 - [MultiThreading in Python with Practical Comparison:](https://medium.com/@priyaeswaran/multithreading-in-python-with-practical-comparison-caa245e09f13?source=rss-97f138d31355------2)
 - [Understanding Web Storage: Cookie vs. Session vs. Local Storage](https://medium.com/@priyaeswaran/understanding-web-storage-cookie-vs-session-vs-local-storage-21fdcebafd93?source=rss-97f138d31355------2)
 - [Getting Started With React Hooks:A Beginner’s Guide](https://medium.com/@priyaeswaran/getting-started-with-react-hooks-a-beginners-guide-6103e726be4d?source=rss-97f138d31355------2)
-- [Beginner’s Guide to JWT &lpar;JSON Web Tokens&rpar;:](https://medium.com/@priyaeswaran/beginners-guide-to-jwt-json-web-tokens-8321f4d90650?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
