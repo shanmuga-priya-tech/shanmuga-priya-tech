@@ -2,11 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shanmuga+Priya!;" />
 </h1>
 
-<h3 align="center">A passionate developer from India</h3>
-<img alt="profile gif" align="right" src=".github/workflows/ezgif.com-resize (1).webp">
-
-
-- 🔭 I’m currently working on **Building Myself**
+- 🔭 I’m currently working on **building myself**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
@@ -14,21 +10,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@priyaeswaran](https://medium.com/@priyaeswaran)
 
-- 💬 Ask me about **python,Node.js,react.js,express.js,mongodb**
+- 💬 Ask me about **python,Node.js,React.js,Express.js,MongoDB**
 
 - 📫 How to reach me **shanstark20@gmail.com**
 
-<hr>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the conversion of Human Language to Binary format:](https://medium.com/@priyaeswaran/understanding-the-conversion-of-human-language-to-binary-format-ea42d2b58bf5?source=rss-97f138d31355------2)
-- [The Comprehensive Guide to Components in React:](https://medium.com/@priyaeswaran/the-comprehensive-guide-to-components-in-react-154ac7490dd3?source=rss-97f138d31355------2)
-- [MultiThreading in Python with Practical Comparison:](https://medium.com/@priyaeswaran/multithreading-in-python-with-practical-comparison-caa245e09f13?source=rss-97f138d31355------2)
-- [Understanding Web Storage: Cookie vs. Session vs. Local Storage](https://medium.com/@priyaeswaran/understanding-web-storage-cookie-vs-session-vs-local-storage-21fdcebafd93?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,15 +24,12 @@
 <a href="https://medium.com/@priyaeswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyaeswaran" height="30" width="40" /></a>
 </p>
 
-
-<h2 align="center">Languages and Tools:</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,svelte,pug" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb" /><br>
-    <img src ="https://skillicons.dev/icons?i=vscode,github,git,postman" /><br>
-</div>
-<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmuga-priya-tech&show_icons=true&locale=en&layout=compact" alt="shanmuga-priya-tech" /></p>
+
+
+
+
 
