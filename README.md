@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shanmuga-priya-e-tech2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmuga priya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanmuga-priya-e-tech2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmuga priya" height="30" width="40" /></a>
 <a href="https://medium.com/@priyaeswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyaeswaran" height="30" width="40" /></a>
 </p>
 
