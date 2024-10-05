@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 👨‍💻 All of my projects are available at [https://shan-portfolio.onrender.com](https://shan-portfolio.onrender.com)
-
 - 📝 I regularly write articles on [https://medium.com/@priyaeswaran](https://medium.com/@priyaeswaran)
 
 - 💬 Ask me about **python,Node.js,react.js,express.js,mongodb**
