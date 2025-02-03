@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Image Deletion in Node.js &lpar;Multer + fs&rpar;:](https://medium.com/@priyaeswaran/automatic-image-deletion-in-node-js-multer-fs-f1835d272b92?source=rss-97f138d31355------2)
 - [Supercharge Your Node.js App with Pug: A Step-by-Step Guide to Server-Side Rendering](https://medium.com/@priyaeswaran/supercharge-your-node-js-app-with-pug-a-step-by-step-guide-to-server-side-rendering-7f6e69da6644?source=rss-97f138d31355------2)
 - [Uploading Images in Nodejs:](https://medium.com/@priyaeswaran/uploading-images-in-nodejs-ba307b495008?source=rss-97f138d31355------2)
 - [Understanding the conversion of Human Language to Binary format:](https://medium.com/@priyaeswaran/understanding-the-conversion-of-human-language-to-binary-format-ea42d2b58bf5?source=rss-97f138d31355------2)
-- [The Comprehensive Guide to Components in React:](https://medium.com/@priyaeswaran/the-comprehensive-guide-to-components-in-react-154ac7490dd3?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
