@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know to Master Event Loop in Node.js](https://medium.com/@priyaeswaran/everything-you-need-to-know-to-master-event-loop-in-node-js-e41e8f96e80a?source=rss-97f138d31355------2)
 - [Implementing Rate Limiting in Node.js&lpar;without using any library!&rpar;](https://medium.com/@priyaeswaran/implementing-rate-limiting-in-node-js-without-using-any-library-dfb6011371d3?source=rss-97f138d31355------2)
 - [Do You Know the Answer to this Common Javascript Interview Question ?](https://medium.com/@priyaeswaran/do-you-know-the-answer-to-this-common-javascript-interview-question-97af81bd8bd0?source=rss-97f138d31355------2)
 - [How to Integrate Stripe in MERN Apps :](https://medium.com/@priyaeswaran/how-to-integrate-stripe-in-mern-apps-ffa3b8fd6a37?source=rss-97f138d31355------2)
-- [Begginers guide for Integrating Google Maps in a React projects](https://medium.com/@priyaeswaran/begginers-guide-for-integrating-google-maps-in-a-react-projects-a33c55403ab6?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
