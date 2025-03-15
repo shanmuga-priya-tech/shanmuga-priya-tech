@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing React Performance with Code-Splitting](https://medium.com/@priyaeswaran/optimizing-react-performance-with-code-splitting-637bb13278d6?source=rss-97f138d31355------2)
 - [Learn How to Analyze Performance in React Apps and Apply Optimization Techniques Practically…](https://medium.com/@priyaeswaran/learn-how-to-analyze-performance-in-react-apps-and-apply-optimization-techniques-practically-2362e8c709ae?source=rss-97f138d31355------2)
 - [Everything You Need to Know to Master Event Loop in Node.js](https://medium.com/@priyaeswaran/everything-you-need-to-know-to-master-event-loop-in-node-js-e41e8f96e80a?source=rss-97f138d31355------2)
 - [Implementing Rate Limiting in Node.js&lpar;without using any library!&rpar;](https://medium.com/@priyaeswaran/implementing-rate-limiting-in-node-js-without-using-any-library-dfb6011371d3?source=rss-97f138d31355------2)
-- [Do You Know the Answer to this Common Javascript Interview Question ?](https://medium.com/@priyaeswaran/do-you-know-the-answer-to-this-common-javascript-interview-question-97af81bd8bd0?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
