@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boosting React Performance with Memoization](https://code.likeagirl.io/boosting-react-performance-with-memoization-91f46e509d78?source=rss-97f138d31355------2)
 - [Optimizing React Performance with Code-Splitting](https://medium.com/@priyaeswaran/optimizing-react-performance-with-code-splitting-637bb13278d6?source=rss-97f138d31355------2)
 - [Learn How to Analyze Performance in React Apps and Apply Optimization Techniques Practically…](https://medium.com/@priyaeswaran/learn-how-to-analyze-performance-in-react-apps-and-apply-optimization-techniques-practically-2362e8c709ae?source=rss-97f138d31355------2)
 - [Everything You Need to Know to Master Event Loop in Node.js](https://medium.com/@priyaeswaran/everything-you-need-to-know-to-master-event-loop-in-node-js-e41e8f96e80a?source=rss-97f138d31355------2)
-- [Implementing Rate Limiting in Node.js&lpar;without using any library!&rpar;](https://medium.com/@priyaeswaran/implementing-rate-limiting-in-node-js-without-using-any-library-dfb6011371d3?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
