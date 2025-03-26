@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner’s Guide to Closing a Modal in React on Outside Click and Escape Keypress](https://medium.com/@priyaeswaran/beginners-guide-to-closing-a-modal-in-react-on-outside-click-and-escape-keypress-9812b1d48b84?source=rss-97f138d31355------2)
 - [Automate Task in Node.JsApplications using Cron Jobs](https://medium.com/codeelevation/automate-task-in-node-jsapplications-using-cron-jobs-6e67c75820a9?source=rss-97f138d31355------2)
 - [Boosting React Performance with Memoization](https://code.likeagirl.io/boosting-react-performance-with-memoization-91f46e509d78?source=rss-97f138d31355------2)
 - [Optimizing React Performance with Code-Splitting](https://medium.com/@priyaeswaran/optimizing-react-performance-with-code-splitting-637bb13278d6?source=rss-97f138d31355------2)
-- [Learn How to Analyze Performance in React Apps and Apply Optimization Techniques Practically…](https://medium.com/@priyaeswaran/learn-how-to-analyze-performance-in-react-apps-and-apply-optimization-techniques-practically-2362e8c709ae?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
