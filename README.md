@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Free Tools to Turn Your Images Into Trending Ghibli Art](https://medium.com/@priyaeswaran/top-free-tools-to-turn-your-images-into-trending-ghibli-art-3715a5fd18f5?source=rss-97f138d31355------2)
 - [Build Your Own Chat Application Using MERN Stack](https://code.likeagirl.io/build-your-own-chat-application-using-mern-stack-c643e781589a?source=rss-97f138d31355------2)
 - [Top 5 Medium Publication for Coding and Tech](https://medium.com/codeelevation/top-5-medium-publication-for-coding-and-tech-2690471b82eb?source=rss-97f138d31355------2)
 - [Beginner’s Guide to Closing a Modal in React on Outside Click and Escape Keypress](https://medium.com/@priyaeswaran/beginners-guide-to-closing-a-modal-in-react-on-outside-click-and-escape-keypress-9812b1d48b84?source=rss-97f138d31355------2)
-- [Automate Task in Node.JsApplications using Cron Jobs](https://medium.com/codeelevation/automate-task-in-node-jsapplications-using-cron-jobs-6e67c75820a9?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
