@@ -22,7 +22,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Create Your Own Image Generation Application in MERN Stack Using Gemini 2.0](https://generativeai.pub/create-your-own-image-generation-application-in-mern-stack-using-gemini-2-0-1f9438026bcb?source=rss-97f138d31355------2)
 - [Get Your Hands Dirty On Working With Google’s Gemini 2.0](https://medium.com/codeelevation/get-your-hands-dirty-on-working-with-googles-gemini-2-0-6650c191989f?source=rss-97f138d31355------2)
-- [How to Build Auto Suggestion Component in React](https://medium.com/@priyaeswaran/how-to-build-auto-suggestion-component-in-react-cfceda872a91?source=rss-97f138d31355------2)
+- [How to Build Auto Suggestion Component in React](https://javascript.plainenglish.io/how-to-build-auto-suggestion-component-in-react-cfceda872a91?source=rss-97f138d31355------2)
 - [Learn How to Design  A Database for the Chat Application](https://code.likeagirl.io/learn-how-to-design-a-database-for-the-chat-application-73be51b658e5?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
