@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy React.js Application in Amazon Web Service&lpar;AWS&rpar; From Scratch](https://javascript.plainenglish.io/how-to-deploy-react-js-application-in-amazon-web-service-aws-from-scratch-085c6823a660?source=rss-97f138d31355------2)
+- [5 Must Have Cool AI Projects for Your Developer Portfolio](https://ai.plainenglish.io/5-must-have-cool-ai-projects-for-your-developer-portfolio-ae118f7f4d7b?source=rss-97f138d31355------2)
 - [Turn Your Image into Trending Realistic Action Figure Toy For Free in Just 2 Steps](https://medium.com/codeelevation/turn-your-image-into-trending-realistic-action-figure-toy-for-free-in-just-2-steps-abf4fede48a3?source=rss-97f138d31355------2)
 - [Create Your Own Image Generation Application in MERN Stack Using Gemini 2.0](https://generativeai.pub/create-your-own-image-generation-application-in-mern-stack-using-gemini-2-0-1f9438026bcb?source=rss-97f138d31355------2)
-- [Get Your Hands Dirty On Working With Google’s Gemini 2.0](https://medium.com/codeelevation/get-your-hands-dirty-on-working-with-googles-gemini-2-0-6650c191989f?source=rss-97f138d31355------2)
-- [How to Build Auto Suggestion Component in React](https://javascript.plainenglish.io/how-to-build-auto-suggestion-component-in-react-cfceda872a91?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
