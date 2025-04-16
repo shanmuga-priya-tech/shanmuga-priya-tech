@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Role Based Access Control in Node.js by Building a Medium Mini App](https://medium.com/codeelevation/learn-role-based-access-control-in-node-js-by-building-a-medium-mini-app-ed0fe79f4e5e?source=rss-97f138d31355------2)
 - [How to Deploy a Nodejs &lpar;Backend&rpar; Application in Amazon Web Services &lpar;AWS&rpar; From Scratch](https://medium.com/codeelevation/how-to-deploy-a-nodejs-backend-application-in-amazon-web-services-aws-from-scratch-c9477f5fd2ba?source=rss-97f138d31355------2)
 - [How to Deploy React.js Application in Amazon Web Service&lpar;AWS&rpar; From Scratch](https://javascript.plainenglish.io/how-to-deploy-react-js-application-in-amazon-web-service-aws-from-scratch-085c6823a660?source=rss-97f138d31355------2)
 - [5 Must Have Cool AI Projects for Your Developer Portfolio](https://ai.plainenglish.io/5-must-have-cool-ai-projects-for-your-developer-portfolio-ae118f7f4d7b?source=rss-97f138d31355------2)
-- [Turn Your Image into Trending Realistic Action Figure Toy For Free in Just 2 Steps](https://medium.com/codeelevation/turn-your-image-into-trending-realistic-action-figure-toy-for-free-in-just-2-steps-abf4fede48a3?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
