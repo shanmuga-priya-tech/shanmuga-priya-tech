@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn All React Hooks in One Shot](https://medium.com/codeelevation/learn-all-react-hooks-in-one-shot-6d6f00f8cea5?source=rss-97f138d31355------2)
 - [Stop Injection Attacks in MERN: Protect Your App from NoSQL &amp; JavaScript Injection](https://medium.com/codeelevation/stop-injection-attacks-in-mern-protect-your-app-from-nosql-javascript-injection-b6e380dfc28c?source=rss-97f138d31355------2)
 - [Top 10 Ways to Protect Your MERN Application Like a Pro](https://code.likeagirl.io/top-10-ways-to-protect-your-mern-application-like-a-pro-2e627da2585c?source=rss-97f138d31355------2)
 - [Secure Your MERN App Like a Pro: A Beginner Friendly Guide to OWASP Top 10 Series &lpar;2025 Edition&rpar;](https://medium.com/codeelevation/secure-your-mern-app-like-a-pro-a-beginner-friendly-guide-to-owasp-top-10-series-2025-edition-5fd5ba4fc2f7?source=rss-97f138d31355------2)
-- [Learn Role Based Access Control in Node.js by Building a Medium Mini App](https://medium.com/codeelevation/learn-role-based-access-control-in-node-js-by-building-a-medium-mini-app-ed0fe79f4e5e?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
