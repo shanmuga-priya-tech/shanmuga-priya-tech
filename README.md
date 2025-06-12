@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Web Dev: My Self-Taught Journey into Tech](https://code.likeagirl.io/from-zero-to-web-dev-my-self-taught-journey-into-tech-660d820651f8?source=rss-97f138d31355------2)
 - [From Zero to First Medium Payment: My Medium Journey](https://medium.com/write-a-catalyst/from-zero-to-first-medium-payment-my-medium-journey-14ff3e25ad05?source=rss-97f138d31355------2)
 - [Practical Guide to Generate a PDF in a MERN Stack Application](https://medium.com/codeelevation/practical-guide-to-generate-a-pdf-in-a-mern-stack-application-d67f98792c79?source=rss-97f138d31355------2)
 - [Learn All React Hooks in One Shot](https://medium.com/codeelevation/learn-all-react-hooks-in-one-shot-6d6f00f8cea5?source=rss-97f138d31355------2)
-- [Stop Injection Attacks in MERN: Protect Your App from NoSQL &amp; JavaScript Injection](https://medium.com/codeelevation/stop-injection-attacks-in-mern-protect-your-app-from-nosql-javascript-injection-b6e380dfc28c?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
