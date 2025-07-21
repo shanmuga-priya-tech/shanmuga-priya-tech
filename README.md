@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Coding Best Practices: A Practical Guide for Development Teams](https://medium.com/codeelevation/secure-coding-best-practices-a-practical-guide-for-development-teams-3a1a7e28c82e?source=rss-97f138d31355------2)
 - [How I Transitioned from Agriculture Graduate to MERN Stack Developer &amp; Tech Content Writer](https://medium.com/illumination/how-i-transitioned-from-agriculture-graduate-to-mern-stack-developer-tech-content-writer-85df3c73aaa7?source=rss-97f138d31355------2)
 - [From Zero to Web Dev: My Self-Taught Journey into Tech](https://code.likeagirl.io/from-zero-to-web-dev-my-self-taught-journey-into-tech-660d820651f8?source=rss-97f138d31355------2)
 - [From Zero to First Medium Payment: My Medium Journey](https://medium.com/write-a-catalyst/from-zero-to-first-medium-payment-my-medium-journey-14ff3e25ad05?source=rss-97f138d31355------2)
-- [Practical Guide to Generate a PDF in a MERN Stack Application](https://medium.com/codeelevation/practical-guide-to-generate-a-pdf-in-a-mern-stack-application-d67f98792c79?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
