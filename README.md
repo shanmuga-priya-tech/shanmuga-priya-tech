@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Source Code Audit Checklist: Best Practices for Secure Code](https://javascript.plainenglish.io/source-code-audit-checklist-best-practices-for-secure-code-a3b1521041e4?source=rss-97f138d31355------2)
+- [Business Logic Vulnerabilities Explained: Real Examples, Impact &amp; How To Prevent Them](https://python.plainenglish.io/business-logic-vulnerabilities-explained-real-examples-impact-how-to-prevent-them-855a7b3c7f98?source=rss-97f138d31355------2)
 - [Secure Coding Best Practices: A Practical Guide for Development Teams](https://medium.com/codeelevation/secure-coding-best-practices-a-practical-guide-for-development-teams-3a1a7e28c82e?source=rss-97f138d31355------2)
 - [How I Transitioned from Agriculture Graduate to MERN Stack Developer &amp; Tech Content Writer](https://medium.com/illumination/how-i-transitioned-from-agriculture-graduate-to-mern-stack-developer-tech-content-writer-85df3c73aaa7?source=rss-97f138d31355------2)
-- [From Zero to Web Dev: My Self-Taught Journey into Tech](https://code.likeagirl.io/from-zero-to-web-dev-my-self-taught-journey-into-tech-660d820651f8?source=rss-97f138d31355------2)
-- [From Zero to First Medium Payment: My Medium Journey](https://medium.com/write-a-catalyst/from-zero-to-first-medium-payment-my-medium-journey-14ff3e25ad05?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
