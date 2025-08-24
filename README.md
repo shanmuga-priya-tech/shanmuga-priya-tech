@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Code Audit Tools to Improve Code Quality &amp; Security in 2025](https://javascript.plainenglish.io/10-best-code-audit-tools-to-improve-code-quality-security-in-2025-72ddab53135d?source=rss-97f138d31355------2)
 - [The Best Way to Do Code Reviews in GitHub &lpar;with Real Examples and Tools&rpar;](https://medium.com/codetodeploy/the-best-way-to-do-code-reviews-in-github-with-real-examples-and-tools-40cab748f944?source=rss-97f138d31355------2)
 - [What is a CI/CD Pipeline?](https://code.likeagirl.io/what-is-a-ci-cd-pipeline-73a17f98ad2a?source=rss-97f138d31355------2)
 - [Source Code Audit Checklist: Best Practices for Secure Code](https://javascript.plainenglish.io/source-code-audit-checklist-best-practices-for-secure-code-a3b1521041e4?source=rss-97f138d31355------2)
-- [Business Logic Vulnerabilities Explained: Real Examples, Impact &amp; How To Prevent Them](https://python.plainenglish.io/business-logic-vulnerabilities-explained-real-examples-impact-how-to-prevent-them-855a7b3c7f98?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
