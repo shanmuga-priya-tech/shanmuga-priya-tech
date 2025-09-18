@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Simple Ways to Make Money Online Using Google Nano Banana](https://generativeai.pub/12-simple-ways-to-make-money-online-using-google-nano-banana-ac1fba7c5513?source=rss-97f138d31355------2)
 - [How to Create Viral Retro Photos with Gemini: 25+ Prompts You Can Copy Today](https://generativeai.pub/how-to-create-viral-retro-photos-with-gemini-25-prompts-you-can-copy-today-b75603b91b2d?source=rss-97f138d31355------2)
 - [AI Website Builder vs Traditional Website Builders: Which is Better?](https://ai.plainenglish.io/ai-website-builder-vs-traditional-website-builders-which-is-better-a4580d1af487?source=rss-97f138d31355------2)
 - [15 Best AI Website Builders in 2025 &lpar;Ranked &amp; Compared&rpar;](https://ai.plainenglish.io/15-best-ai-website-builders-in-2025-ranked-compared-5dfbb4fc5375?source=rss-97f138d31355------2)
-- [Automatic Website Builders Using AI — How They Work in 2025](https://medium.com/codetodeploy/automatic-website-builders-using-ai-how-they-work-in-2025-198c1677f478?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
