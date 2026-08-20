@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI for Absolute Beginners — Day 3: Building A Model From Scratch&lpar;Part 1&rpar;](https://ai.plainenglish.io/ai-for-absolute-beginners-day-3-building-a-model-from-scratch-part-1-2adaecfcf4ae?source=rss-97f138d31355------2)
 - [AI for Absolute Beginners — Day 2: Build a Local PDF Summarizer with Llama 3.2 and Ollama](https://ai.plainenglish.io/ai-for-absolute-beginners-day-2-build-a-local-pdf-summarizer-with-llama-3-2-and-ollama-020525d309c7?source=rss-97f138d31355------2)
 - [AI for Absolute Beginners — Day 1: Your First Step into AI Models](https://ai.plainenglish.io/ai-for-absolute-beginners-day-1-your-first-step-into-ai-models-c7a1c6bd3d89?source=rss-97f138d31355------2)
 - [12 Simple Ways to Make Money Online Using Google Nano Banana](https://generativeai.pub/12-simple-ways-to-make-money-online-using-google-nano-banana-ac1fba7c5513?source=rss-97f138d31355------2)
-- [How to Create Viral Retro Photos with Gemini: 25+ Prompts You Can Copy Today](https://generativeai.pub/how-to-create-viral-retro-photos-with-gemini-25-prompts-you-can-copy-today-b75603b91b2d?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
