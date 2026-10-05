@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI for Absolute Beginners — Day 7: Fine-Tuning Llama 3.2 Step by Step Guide](https://ai.plainenglish.io/ai-for-absolute-beginners-day-7-fine-tuning-llama-3-2-step-by-step-guide-8099befbaa65?source=rss-97f138d31355------2)
 - [AI for Absolute Beginners — Day 6: What Is Fine-Tuning?](https://ai.plainenglish.io/ai-for-absolute-beginners-day-6-what-is-fine-tuning-f447ec41e277?source=rss-97f138d31355------2)
 - [AI for Absolute Beginners — Day 5: Building A Model From Scratch&lpar;final part&rpar;](https://ai.plainenglish.io/ai-for-absolute-beginners-day-5-building-a-model-from-scratch-final-part-29f60d5737b8?source=rss-97f138d31355------2)
 - [AI for Absolute Beginners — Day 4: Building A Model From Scratch&lpar;Part 2&rpar;](https://ai.plainenglish.io/ai-for-absolute-beginners-day-4-building-a-model-from-scratch-part-2-6b0199e415a0?source=rss-97f138d31355------2)
-- [AI for Absolute Beginners — Day 3: Building A Model From Scratch&lpar;Part 1&rpar;](https://ai.plainenglish.io/ai-for-absolute-beginners-day-3-building-a-model-from-scratch-part-1-2adaecfcf4ae?source=rss-97f138d31355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
